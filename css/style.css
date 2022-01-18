@@ -1,3 +1,7 @@
 body {
   font-family: arial;
 }
+table {
+    border-collapse: separate;
+    border-spacing: 25px 5px;
+}
